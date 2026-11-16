@@ -1,1 +1,2 @@
-Scenario 1 notepad
+Scenario 1 git bash
+
