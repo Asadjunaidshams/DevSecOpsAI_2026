@@ -8,4 +8,4 @@ image
 build - new scenario
 security
 added no line
-added 70th line
+added conflice in resume for better understanding
